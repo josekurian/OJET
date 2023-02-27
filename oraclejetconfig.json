@@ -1,0 +1,36 @@
+{
+  "paths": {
+    "source": {
+      "common": "src",
+      "web": "src-web",
+      "hybrid": "src-hybrid",
+      "javascript": ".",
+      "typescript": ".",
+      "styles": "styles",
+      "themes": "themes",
+      "components": "components",
+      "exchangeComponents": "exchange_components"
+    },
+    "staging": {
+      "web": "web",
+      "hybrid": "hybrid",
+      "themes": "staged-themes"
+    }
+  },
+  "defaultBrowser": "chrome",
+  "sassVer": "5.0.0",
+  "defaultTheme": "redwood",
+  "architecture": "vdom",
+  "components": {
+    "oj-sp": {
+      "components": {
+        "welcome-page": "^2207.0.0",
+        "item-overview-page": "^2207.0.0",
+        "item-overview": "^2207.0.0",
+        "image-card": "^2207.0.0",
+        "header-welcome-banner": "^2207.0.0"
+      }
+    },
+    "oj-sp-ref-color-thief": "^2.3.2"
+  }
+}

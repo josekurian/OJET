@@ -1,0 +1,6 @@
+{
+  "SERVER_URL": "https://samples.mycontentdemo.com",
+  "API_VERSION": "v1.1",
+  "CHANNEL_TOKEN": "47c9fb78774d4485bc7090bf7b955632",
+  "expressServerPort": "8080"
+}
